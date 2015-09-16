@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 不空索毘盧遮那佛大灌頂光真言
+#+DATE: 2015-08-30 20:27:37.476836
+#+PROPERTY: JUAN 0
