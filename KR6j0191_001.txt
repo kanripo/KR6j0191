@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:37.293915
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:31
 #+TITLE: 不空羂索毘盧遮那佛大灌頂光真言
 #+PROPERTY: CBETA_ID T19n1002
 #+PROPERTY: ID KR6j0191
